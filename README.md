@@ -27,3 +27,4 @@
 - **Server-side:** Servlet.
 - **Back-end:** MYSQL.
 - **Server:** Tomcat 8.5.
+- **Servlet:** Java Server Pages(JSP)
