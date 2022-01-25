@@ -5,7 +5,7 @@
 
 ##### ShopFast is web-based application running on the localhost tomcat server. The main objective is to provide an online platform for buying and selling of products over Internet.
 
-## Functionality👤
+## Functionality🎭
 ##### There are two main actors of the application who will interact directly with the application.
 
 - **Admin** :Admin is the main entity of this project who have several functionalities:-\
