@@ -1,0 +1,85 @@
+.custom-bg{
+	background:#5c007a;
+}
+
+.admin .card{
+	border:1px solid purple;
+}
+
+
+.admin .card:hover{
+	
+	background:#c06adc;
+	cursor: pointer;
+}
+
+
+.list-group-item.active{
+	background:#5c007a;
+	border-color:#5c007a;	
+}
+
+.product-card:hover{
+	
+	background:#c06adc !important;
+	cursor: pointer !important;
+}
+
+
+
+#toast
+{
+font-size:25px;
+min-width: 300px;
+position:fixed;
+bottom:30px;
+left:50%;
+margin-left:-110px;
+background: grey;
+padding:15px;
+color:white;
+text-align:center;
+visibility:hidden;
+
+}
+
+
+#toast.display{
+
+visibility:visible;
+
+animation:fadeIn 0.5s, fadeOut 0.5s 2.5s;
+
+}
+
+
+@keyframes fadeIn{
+	
+		from{
+		
+			bottom: 0;
+			opacity:0;
+		}
+		
+		to{
+			bottom:30px;
+			opacity:1;
+		}
+}
+
+
+
+@keyframes fadeOut{
+	
+		from{
+			bottom:30px;
+			opacity:1;
+			
+		}
+		
+		to{
+			bottom:0;
+			opacity:0;	
+		}
+}
+
