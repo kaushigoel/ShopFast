@@ -14,7 +14,7 @@
             - Can see dynamic values of USERS currently using the website, total number of CATEGORIES and PRODUCTS present in the website.
             
 - **User**  :User can shop for any product and add to cart however he like.\
-            -Can add product to cart or remove based in his requirement. 
+            -Can add product to cart or remove based on his requirement. 
             
 -**Validations** : User cannot access admin page due to the validations applied.\
                    Even if he try to access admin page,he will be redirected back to normal user page.     
